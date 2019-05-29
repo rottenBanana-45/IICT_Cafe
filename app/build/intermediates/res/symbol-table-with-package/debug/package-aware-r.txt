@@ -1453,6 +1453,7 @@ string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string firebase_database_url
 string forgot_password
+string forgotpass_message
 string gcm_defaultSenderId
 string go
 string google_api_key

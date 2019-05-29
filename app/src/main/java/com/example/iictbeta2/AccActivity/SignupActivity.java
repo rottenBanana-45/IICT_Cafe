@@ -61,8 +61,8 @@ public class SignupActivity extends AppCompatActivity {
             public void onClick(View v) {
 
                 progressDialog = new ProgressDialog(SignupActivity.this);
-                progressDialog.setTitle("Signing up...");
-                progressDialog.setMessage("Please wait while signing up");
+                progressDialog.setTitle("Signing up");
+                progressDialog.setMessage("Please wait...");
                 progressDialog.setCanceledOnTouchOutside(false);
                 progressDialog.show();
 

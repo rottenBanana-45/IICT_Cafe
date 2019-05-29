@@ -1,5 +1,6 @@
 package com.example.iictbeta2.AccActivity;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.TextInputLayout;
@@ -23,6 +24,8 @@ public class LoginActivity extends AppCompatActivity {
     private TextInputLayout emailField, passField;
 
     private FirebaseAuth mAuth;
+
+    private ProgressDialog progressDialog;
 
     private final String emailPattern = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z.]+";
 
@@ -49,8 +52,15 @@ public class LoginActivity extends AppCompatActivity {
         gobutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                progressDialog = new ProgressDialog(LoginActivity.this);
+                progressDialog.setTitle("Logging in");
+                progressDialog.setMessage("Please wait...");
+                progressDialog.setCanceledOnTouchOutside(false);
+                progressDialog.show();
+
                 String email = emailField.getEditText().getText().toString().trim();
-                String pass = passField.getEditText().getText().toString().trim();
+                String pass = passField.getEditText().getText().toString();
 
                 if(!checkInvalidInput(email, pass)){
                     emailField.setError(null);
@@ -58,6 +68,7 @@ public class LoginActivity extends AppCompatActivity {
                         @Override
                         public void onComplete(@NonNull Task<AuthResult> task) {
                             if(task.isSuccessful()){
+                                progressDialog.dismiss();
                                 if(mAuth.getCurrentUser().isEmailVerified()){
                                     Intent i = new Intent(LoginActivity.this, LoggedinHomeActivity.class);
                                     i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
@@ -69,6 +80,7 @@ public class LoginActivity extends AppCompatActivity {
                                             Toast.LENGTH_LONG).show();
                                 }
                             } else {
+                                progressDialog.dismiss();
                                 if(task.getException() instanceof FirebaseAuthInvalidCredentialsException){
                                     Toast.makeText(LoginActivity.this,
                                             "Wrong email or password", Toast.LENGTH_LONG).show();
