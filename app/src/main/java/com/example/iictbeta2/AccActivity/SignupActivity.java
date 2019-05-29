@@ -1,5 +1,6 @@
 package com.example.iictbeta2.AccActivity;
 
+import android.app.ProgressDialog;
 import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.TextInputLayout;
@@ -31,6 +32,9 @@ public class SignupActivity extends AppCompatActivity {
     //Firebase Database
     private DatabaseReference rootReference;
 
+    //Progress Dialogue
+    private ProgressDialog progressDialog;
+
     //Valid Email Pattern
     private final String emailPattern = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z.]+";
 
@@ -49,10 +53,18 @@ public class SignupActivity extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
 
+
+
         signupButton.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
+
+                progressDialog = new ProgressDialog(SignupActivity.this);
+                progressDialog.setTitle("Signing up...");
+                progressDialog.setMessage("Please wait while signing up");
+                progressDialog.setCanceledOnTouchOutside(false);
+                progressDialog.show();
 
                 final String name = nameField.getEditText().getText().toString().trim();
                 final String email = emailField.getEditText().getText().toString().trim();
@@ -79,24 +91,28 @@ public class SignupActivity extends AppCompatActivity {
                                             rootReference = FirebaseDatabase.getInstance().getReference().child("Users").child(uid);
 
                                             HashMap<String, String> userdata = new HashMap<>();
-                                            userdata.put("Name", name);
-                                            userdata.put("Email", email);
+                                            userdata.put("name", name);
+                                            userdata.put("email", email);
 
                                             rootReference.setValue(userdata).addOnCompleteListener(new OnCompleteListener<Void>() {
                                                 @Override
                                                 public void onComplete(@NonNull Task<Void> task) {
                                                     if(task.isSuccessful()){
+                                                        progressDialog.dismiss();
                                                         FirebaseAuth.getInstance().signOut();
                                                         Intent i = new Intent(SignupActivity.this, LoginActivity.class);
                                                         Toast.makeText(SignupActivity.this,
                                                                 "Registration completed. Please verify your email.",
                                                                 Toast.LENGTH_LONG).show();
                                                         startActivity(i);
+                                                    } else {
+                                                        progressDialog.dismiss();
                                                     }
                                                 }
                                             });
 
                                         } else {
+                                            progressDialog.dismiss();
                                             Toast.makeText(SignupActivity.this,
                                                     "Registration unsuccessful. Please try again!",
                                                     Toast.LENGTH_LONG).show();
@@ -104,6 +120,7 @@ public class SignupActivity extends AppCompatActivity {
                                     }
                                 });
                             } else {
+                                progressDialog.dismiss();
                                 if (task.getException() instanceof FirebaseAuthUserCollisionException) {
                                     Toast.makeText(SignupActivity.this, "This Email is already registered",
                                             Toast.LENGTH_LONG).show();

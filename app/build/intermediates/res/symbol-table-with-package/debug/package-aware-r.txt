@@ -1462,6 +1462,7 @@ string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
 string log_in
 string log_out
+string logged_in_home
 string mtrl_chip_close_icon_content_description
 string name
 string password
@@ -1483,6 +1484,7 @@ style Animation_AppCompat_Tooltip
 style Animation_Design_BottomSheetDialog
 style AppTheme
 style AppTheme_NoActionBar
+style AppTheme_NoActionBarDef
 style Base_AlertDialog_AppCompat
 style Base_AlertDialog_AppCompat_Light
 style Base_Animation_AppCompat_Dialog

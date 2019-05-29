@@ -10,7 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".AccActivity.ForgotPassActivity"></activity>
-        <activity android:name=".AfterLoginActivity.LoggedinHomeActivity" />
+        <activity android:name=".AfterLoginActivity.LoggedinHomeActivity"
+            android:theme="@style/AppTheme.NoActionBarDef" />
         <activity android:name=".AccActivity.SignupActivity" />
         <activity android:name=".AccActivity.LoginActivity" />
         <activity

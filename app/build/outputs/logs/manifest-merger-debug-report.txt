@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\eb706cb9b7ea4742c2a3ec2506418adc\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\01aaeb130155f32f0bbc00ed70ef30b1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:17:1-38:12
@@ -47,25 +47,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rottenBanana\.gra
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\e2ad983e8ab398d662cb71c5e794b389\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b19ab5c2cd0f9d94343b097265be6b94\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\01bb330ae73c8bb1b7712048379e21de\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-30:12
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:5:5-28:19
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\eb706cb9b7ea4742c2a3ec2506418adc\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\eb706cb9b7ea4742c2a3ec2506418adc\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:22:5-36:19
@@ -105,39 +105,41 @@ ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\An
 	android:name
 		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:12:19-65
 activity#com.example.iictbeta2.AfterLoginActivity.LoggedinHomeActivity
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:13:9-77
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:13:9-14:62
+	android:theme
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:14:13-59
 	android:name
 		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:13:19-74
 activity#com.example.iictbeta2.AccActivity.SignupActivity
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:14:9-64
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:15:9-64
 	android:name
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:14:19-61
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:15:19-61
 activity#com.example.iictbeta2.AccActivity.LoginActivity
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:15:9-63
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:16:9-63
 	android:name
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:15:19-60
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:16:19-60
 activity#com.example.iictbeta2.AccActivity.HomeActivity
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:16:9-18:59
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:17:9-19:59
 	android:theme
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:18:13-56
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:17:13-53
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:18:13-53
 activity#com.example.iictbeta2.MainActivity
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:theme
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:20:13-41
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:21:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:24:17-69
 	android:name
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:26:17-77
 	android:name
-		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml

@@ -18,9 +18,12 @@
         android:label="IICT Cafe-beta"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.iictbeta2.AccActivity.ForgotPassActivity" />
-        <activity android:name="com.example.iictbeta2.AfterLoginActivity.LoggedinHomeActivity" />
+        <activity
+            android:name="com.example.iictbeta2.AfterLoginActivity.LoggedinHomeActivity"
+            android:theme="@style/AppTheme.NoActionBarDef" />
         <activity android:name="com.example.iictbeta2.AccActivity.SignupActivity" />
         <activity android:name="com.example.iictbeta2.AccActivity.LoginActivity" />
         <activity
@@ -63,6 +66,11 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.iictbeta2.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

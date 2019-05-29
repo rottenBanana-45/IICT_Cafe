@@ -21,7 +21,9 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.iictbeta2.AccActivity.ForgotPassActivity" />
-        <activity android:name="com.example.iictbeta2.AfterLoginActivity.LoggedinHomeActivity" />
+        <activity
+            android:name="com.example.iictbeta2.AfterLoginActivity.LoggedinHomeActivity"
+            android:theme="@style/AppTheme.NoActionBarDef" />
         <activity android:name="com.example.iictbeta2.AccActivity.SignupActivity" />
         <activity android:name="com.example.iictbeta2.AccActivity.LoginActivity" />
         <activity
