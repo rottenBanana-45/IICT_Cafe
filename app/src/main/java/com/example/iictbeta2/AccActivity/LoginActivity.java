@@ -20,22 +20,20 @@ import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
 
 public class LoginActivity extends AppCompatActivity {
 
-    private Button gobutton, forgetbutton;
     private TextInputLayout emailField, passField;
 
     private FirebaseAuth mAuth;
 
     private ProgressDialog progressDialog;
 
-    private final String emailPattern = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z.]+";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        gobutton = findViewById(R.id.go);
-        forgetbutton = findViewById(R.id.forgot);
+        Button gobutton = findViewById(R.id.go);
+        Button forgetbutton = findViewById(R.id.forgot);
         emailField = findViewById(R.id.editTextEmail);
         passField = findViewById(R.id.editTextPass);
 
@@ -93,6 +91,7 @@ public class LoginActivity extends AppCompatActivity {
         });
     }
     private boolean checkValidEmail(String email){
+        String emailPattern = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z.]+";
         if(email.matches(emailPattern)){
             return true;
         }
