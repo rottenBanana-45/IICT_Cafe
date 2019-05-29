@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IICTbeta2</string>
+    <string name="go">GO!</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="todo">TODO</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_signed_up_log_in_to_your_account">Already signed up? Log in to your account.</string>
+    <string name="log_out">Log Out</string>
+    <string name="name">Name</string>
+    <string name="logged_in_home">Logged in home</string>
+</resources>
