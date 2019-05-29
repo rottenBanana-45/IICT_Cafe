@@ -113,6 +113,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="350dp"
+            android:layout_marginBottom="40dp"
             android:background="@null"
             android:textColor="#C50C02"
             android:textAllCaps="false"

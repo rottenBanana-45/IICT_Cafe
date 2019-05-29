@@ -28,6 +28,7 @@
                 android:layout_height="wrap_content"
                 android:hint="@string/name"
                 android:inputType="text|textPersonName" />
+
         </android.support.design.widget.TextInputLayout>
 
         <android.support.design.widget.TextInputLayout
@@ -166,6 +167,7 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="464dp"
+            android:layout_marginBottom="40dp"
             android:background="@null"
             android:text="@string/already_signed_up_log_in_to_your_account"
             android:textAllCaps="false"
