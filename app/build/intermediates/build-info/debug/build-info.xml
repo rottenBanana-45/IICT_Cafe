@@ -5,26 +5,30 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
+    ir-eligibility="FIELD_REMOVED"
     plugin-version="3.4.1"
-    timestamp="1559162357780"
+    timestamp="1559166944550"
     token="7053893019766378695"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="12240" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="705" />
     <task
         name="verifier"
-        duration="0" />
+        duration="218" />
 
     <artifact
         location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
 
     <build
@@ -83,9 +87,6 @@
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
@@ -103,10 +104,14 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1559162357780"
+        ir-eligibility="FIELD_REMOVED"
+        timestamp="1559166944550"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
     </build>
 

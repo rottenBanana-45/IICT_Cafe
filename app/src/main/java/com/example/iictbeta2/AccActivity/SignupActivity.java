@@ -24,7 +24,6 @@ import java.util.HashMap;
 public class SignupActivity extends AppCompatActivity {
 
     private TextInputLayout nameField, emailField, passField, confirmPassField;
-    private Button signupButton, loginButton;
 
     //Firebase Authentication
     private FirebaseAuth mAuth;
@@ -34,9 +33,6 @@ public class SignupActivity extends AppCompatActivity {
 
     //Progress Dialogue
     private ProgressDialog progressDialog;
-
-    //Valid Email Pattern
-    private final String emailPattern = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z.]+";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,8 +44,8 @@ public class SignupActivity extends AppCompatActivity {
         emailField = findViewById(R.id.editTextEmail);
         passField = findViewById(R.id.editTextPass);
         confirmPassField = findViewById(R.id.editTextConfirmPass);
-        signupButton = findViewById(R.id.go);
-        loginButton = findViewById(R.id.login);
+        Button signupButton = findViewById(R.id.go);
+        Button loginButton = findViewById(R.id.login);
 
         mAuth = FirebaseAuth.getInstance();
 
@@ -86,13 +82,14 @@ public class SignupActivity extends AppCompatActivity {
 
                                         if(task.isSuccessful()){
 
-                                            String uid = mAuth.getCurrentUser().getUid();
+                                            final String uid = mAuth.getCurrentUser().getUid();
 
                                             rootReference = FirebaseDatabase.getInstance().getReference().child("Users").child(uid);
 
-                                            HashMap<String, String> userdata = new HashMap<>();
+                                            HashMap<String, Object> userdata = new HashMap<>();
                                             userdata.put("name", name);
                                             userdata.put("email", email);
+                                            userdata.put("balance", 0);
 
                                             rootReference.setValue(userdata).addOnCompleteListener(new OnCompleteListener<Void>() {
                                                 @Override
@@ -145,6 +142,8 @@ public class SignupActivity extends AppCompatActivity {
 
     private boolean checkValidEmail(String email){
 
+        //Valid Email Pattern
+        String emailPattern = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z.]+";
         if(email.matches(emailPattern)){
             return true;
         }

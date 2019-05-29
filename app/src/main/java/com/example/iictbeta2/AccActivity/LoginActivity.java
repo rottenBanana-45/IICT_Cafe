@@ -28,7 +28,7 @@ public class LoginActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
@@ -90,6 +90,7 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
     }
+
     private boolean checkValidEmail(String email){
         String emailPattern = "[a-zA-Z0-9._-]+@[a-z]+\\.+[a-z.]+";
         if(email.matches(emailPattern)){
@@ -97,6 +98,7 @@ public class LoginActivity extends AppCompatActivity {
         }
         return false;
     }
+
     private boolean checkInvalidInput(String email, String pass){
 
         boolean ret = false;

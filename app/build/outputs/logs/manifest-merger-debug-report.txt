@@ -6,16 +6,14 @@ INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main
 INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\eb706cb9b7ea4742c2a3ec2506418adc\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\01aaeb130155f32f0bbc00ed70ef30b1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\4536bf06fec7c28979fa017007323a24\AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\a8ed8adbe13062e7ac0dc3b3de8f7729\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\db80de2af207c2088467eca949f25e83\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\c6d2bc0323e010eab72d46d60cbf4836\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:2:1-16:12
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\637d5662e83374c94726756025115a6c\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f2c832f71800a6f8dc61478f3ec8538c\AndroidManifest.xml:2:1-8:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f3c3630ce7c61654daf61e2603ecda3d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:15:1-36:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\fe6a90776d941212ddc82dd83d9968e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\30806a5d311030bb8cf850d24e9b2163\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\03555bdf1ac69f460b86cfab663b644f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2d5158fedca0a5b5fb5e65fa7c31bf69\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\9b9d01142239ac73bd4b641e4be8fdb5\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\dd425290921cf2cb8238f8c1f6c58c8a\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b1dc7bafd5ba9644f1974eee651de041\AndroidManifest.xml:17:1-22:12
@@ -47,6 +45,7 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rottenBanana\.gra
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\e2ad983e8ab398d662cb71c5e794b389\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b19ab5c2cd0f9d94343b097265be6b94\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\01bb330ae73c8bb1b7712048379e21de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\e42165c37c3c8b620cee1ec3fbd1c94a\AndroidManifest.xml:2:1-7:12
 INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
 INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
 INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:2:1-31:12
@@ -68,18 +67,20 @@ application
 ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\eb706cb9b7ea4742c2a3ec2506418adc\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\eb706cb9b7ea4742c2a3ec2506418adc\AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:22:5-36:19
-MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:22:5-36:19
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\db80de2af207c2088467eca949f25e83\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\db80de2af207c2088467eca949f25e83\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:8:5-14:19
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:8:5-14:19
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\637d5662e83374c94726756025115a6c\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\637d5662e83374c94726756025115a6c\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f3c3630ce7c61654daf61e2603ecda3d\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f3c3630ce7c61654daf61e2603ecda3d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\30806a5d311030bb8cf850d24e9b2163\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\30806a5d311030bb8cf850d24e9b2163\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\03555bdf1ac69f460b86cfab663b644f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\03555bdf1ac69f460b86cfab663b644f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2d5158fedca0a5b5fb5e65fa7c31bf69\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2d5158fedca0a5b5fb5e65fa7c31bf69\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\dd425290921cf2cb8238f8c1f6c58c8a\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\dd425290921cf2cb8238f8c1f6c58c8a\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\6876169fd6a57fe0932ce3bf1ef2ac3e\AndroidManifest.xml:22:5-94
@@ -148,26 +149,22 @@ MERGED from [com.android.support:design:28.0.0] C:\Users\rottenBanana\.gradle\ca
 MERGED from [com.android.support:design:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\eb706cb9b7ea4742c2a3ec2506418adc\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\01aaeb130155f32f0bbc00ed70ef30b1\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\01aaeb130155f32f0bbc00ed70ef30b1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\4536bf06fec7c28979fa017007323a24\AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\4536bf06fec7c28979fa017007323a24\AndroidManifest.xml:6:5-44
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\a8ed8adbe13062e7ac0dc3b3de8f7729\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\a8ed8adbe13062e7ac0dc3b3de8f7729\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\db80de2af207c2088467eca949f25e83\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\db80de2af207c2088467eca949f25e83\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\c6d2bc0323e010eab72d46d60cbf4836\AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\c6d2bc0323e010eab72d46d60cbf4836\AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:5:5-6:37
-MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:5:5-6:37
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\637d5662e83374c94726756025115a6c\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\637d5662e83374c94726756025115a6c\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f2c832f71800a6f8dc61478f3ec8538c\AndroidManifest.xml:6:5-44
-MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f2c832f71800a6f8dc61478f3ec8538c\AndroidManifest.xml:6:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f3c3630ce7c61654daf61e2603ecda3d\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f3c3630ce7c61654daf61e2603ecda3d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\fe6a90776d941212ddc82dd83d9968e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\fe6a90776d941212ddc82dd83d9968e2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\30806a5d311030bb8cf850d24e9b2163\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\30806a5d311030bb8cf850d24e9b2163\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\03555bdf1ac69f460b86cfab663b644f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\03555bdf1ac69f460b86cfab663b644f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2d5158fedca0a5b5fb5e65fa7c31bf69\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2d5158fedca0a5b5fb5e65fa7c31bf69\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\9b9d01142239ac73bd4b641e4be8fdb5\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\9b9d01142239ac73bd4b641e4be8fdb5\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\dd425290921cf2cb8238f8c1f6c58c8a\AndroidManifest.xml:5:5-7:41
@@ -230,6 +227,8 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rottenBanana\.
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b19ab5c2cd0f9d94343b097265be6b94\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\01bb330ae73c8bb1b7712048379e21de\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\01bb330ae73c8bb1b7712048379e21de\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\e42165c37c3c8b620cee1ec3fbd1c94a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\e42165c37c3c8b620cee1ec3fbd1c94a\AndroidManifest.xml:5:5-44
 INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -241,54 +240,70 @@ INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main
 		ADDED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\src\main\AndroidManifest.xml
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
-ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:23:9-29:75
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:25:13-46
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:26:13-46
 	android:launchMode
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:27:13-48
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:28:13-44
 	android:exported
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:26:13-36
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:27:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:28:13-102
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:29:13-102
 	android:theme
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:29:13-72
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:31:13-47
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:24:13-85
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:25:13-85
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:31:9-35:19
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:29:9-33:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:35:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:31:18-89
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:34:13-84
 meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
-ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:36:13-38:85
 	android:value
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:38:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-auth:16.0.3] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2eabcdc660f9e12579faac3d629439e2\AndroidManifest.xml:33:17-109
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:23:9-26:75
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:25:13-37
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f1b4491375671ebfd06f9357a1874be1\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:25:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\0f17f95babba7b053296744e81380a92\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:25:22-76
 uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\c6d2bc0323e010eab72d46d60cbf4836\AndroidManifest.xml:8:5-67
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\c6d2bc0323e010eab72d46d60cbf4836\AndroidManifest.xml:8:22-64
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:9:9-13:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:11:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:12:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:13:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b9e1e989ccaccb365a54e224765e909c\AndroidManifest.xml:10:13-77
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f3c3630ce7c61654daf61e2603ecda3d\AndroidManifest.xml:23:9-25:69
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:26:22-64
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:30:13-32:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f3c3630ce7c61654daf61e2603ecda3d\AndroidManifest.xml:25:13-66
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:32:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\f3c3630ce7c61654daf61e2603ecda3d\AndroidManifest.xml:24:13-58
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\b104884d1ee447fd1805a3dfc9c17b93\AndroidManifest.xml:31:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\62a45c2c9ef4fa376499ce1166f7d952\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\5ca06c12b71687cd73108dee207d1457\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2d5158fedca0a5b5fb5e65fa7c31bf69\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2d5158fedca0a5b5fb5e65fa7c31bf69\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\rottenBanana\.gradle\caches\transforms-2\files-2.1\2d5158fedca0a5b5fb5e65fa7c31bf69\AndroidManifest.xml:24:13-58
