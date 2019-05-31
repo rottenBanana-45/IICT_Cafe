@@ -1103,6 +1103,7 @@ id all
 id always
 id async
 id auto
+id balanceView
 id barrier
 id beginning
 id blocking
@@ -1113,6 +1114,7 @@ id center
 id center_horizontal
 id center_vertical
 id chains
+id changeDisplayName
 id checkbox
 id chronometer
 id clip_horizontal
@@ -1284,6 +1286,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id userNameView
 id view_offset_helper
 id visible
 id welcome
@@ -1426,6 +1429,7 @@ string already_signed_up_log_in_to_your_account
 string app_name
 string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
+string change_display_name
 string character_counter_content_description
 string character_counter_pattern
 string common_google_play_services_enable_button

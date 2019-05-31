@@ -4,6 +4,23 @@
             "outputFile": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\62a45c2c9ef4fa376499ce1166f7d952\\res\\values-ms\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,349,554,682,786,1017,1147,1293,1425,1669,1776,1982,2115,2345,2546,2639,2729",
+                        "endColumns": "103,204,127,103,230,129,145,131,243,106,205,132,229,200,92,89,107",
+                        "endOffsets": "348,553,681,785,1016,1146,1292,1424,1668,1775,1981,2114,2344,2545,2638,2728,2836"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,38,39,40,41,42,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2801,2909,3114,3246,3354,3585,3719,3869,4210,4454,4565,4771,4908,5138,5343,5440,5534",
+                        "endColumns": "107,204,131,107,230,133,149,135,243,110,205,136,229,204,96,93,111",
+                        "endOffsets": "2904,3109,3241,3349,3580,3714,3864,4000,4449,4560,4766,4903,5133,5338,5435,5529,5641"
+                    }
+                },
+                {
                     "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\6876169fd6a57fe0932ce3bf1ef2ac3e\\res\\values-ms\\values-ms.xml",
                     "from": {
                         "startLines": "2",
@@ -21,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\f3c3630ce7c61654daf61e2603ecda3d\\res\\values-ms\\values.xml",
+                    "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\2d5158fedca0a5b5fb5e65fa7c31bf69\\res\\values-ms\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -35,23 +52,6 @@
                         "startOffsets": "4005",
                         "endColumns": "204",
                         "endOffsets": "4205"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\0f17f95babba7b053296744e81380a92\\res\\values-ms\\values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "245,349,554,682,786,1017,1147,1293,1425,1669,1776,1982,2115,2345,2546,2639,2729",
-                        "endColumns": "103,204,127,103,230,129,145,131,243,106,205,132,229,200,92,89,107",
-                        "endOffsets": "348,553,681,785,1016,1146,1292,1424,1668,1775,1981,2114,2344,2545,2638,2728,2836"
-                    },
-                    "to": {
-                        "startLines": "29,30,31,32,33,34,35,36,38,39,40,41,42,43,44,45,46",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2801,2909,3114,3246,3354,3585,3719,3869,4210,4454,4565,4771,4908,5138,5343,5440,5534",
-                        "endColumns": "107,204,131,107,230,133,149,135,243,110,205,136,229,204,96,93,111",
-                        "endOffsets": "2904,3109,3241,3349,3580,3714,3864,4000,4449,4560,4766,4903,5133,5338,5435,5529,5641"
                     }
                 },
                 {

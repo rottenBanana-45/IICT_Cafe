@@ -5,44 +5,41 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="FIELD_REMOVED"
+    ir-eligibility="FIELD_ADDED"
     plugin-version="3.4.1"
-    timestamp="1559166944550"
+    timestamp="1559266003248"
     token="7053893019766378695"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="12240" />
+        duration="428" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="705" />
+        duration="206" />
     <task
         name="verifier"
-        duration="218" />
+        duration="6" />
 
     <artifact
-        location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1559152915158"
+        timestamp="1559255195498"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
         <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
@@ -78,22 +75,28 @@
     <build
         build-mode="COLD"
         ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1559161958890"
+        timestamp="1559265277714"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
+            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
+            type="SPLIT" />
+        <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
@@ -104,14 +107,11 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="FIELD_REMOVED"
-        timestamp="1559166944550"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1559266003248"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\resources\instant-run\debug\resources-debug.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\rottenBanana\AndroidStudioProjects\IICTbeta2\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
     </build>
 

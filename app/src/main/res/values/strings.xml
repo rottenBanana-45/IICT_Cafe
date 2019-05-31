@@ -13,4 +13,5 @@
     <string name="name">Name</string>
     <string name="logged_in_home">Logged in home</string>
     <string name="forgotpass_message">Please enter the email your account is registered with. A password reset link will be sent to that email address.</string>
+    <string name="change_display_name">CHANGE DISPLAY NAME</string>
 </resources>

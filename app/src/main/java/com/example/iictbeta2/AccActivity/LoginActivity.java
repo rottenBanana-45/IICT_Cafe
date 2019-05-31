@@ -17,6 +17,9 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseAuthInvalidCredentialsException;
+import com.google.firebase.auth.FirebaseUser;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
 
 public class LoginActivity extends AppCompatActivity {
 
@@ -62,30 +65,21 @@ public class LoginActivity extends AppCompatActivity {
 
                 if(!checkInvalidInput(email, pass)){
                     emailField.setError(null);
-                    mAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener( new OnCompleteListener<AuthResult>() {
-                        @Override
-                        public void onComplete(@NonNull Task<AuthResult> task) {
-                            if(task.isSuccessful()){
-                                progressDialog.dismiss();
-                                if(mAuth.getCurrentUser().isEmailVerified()){
-                                    Intent i = new Intent(LoginActivity.this, LoggedinHomeActivity.class);
-                                    i.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
-                                    startActivity(i);
-                                    finish();
-                                } else {
-                                    Toast.makeText(LoginActivity.this,
-                                            "Please verify your email first!",
-                                            Toast.LENGTH_LONG).show();
-                                }
-                            } else {
-                                progressDialog.dismiss();
-                                if(task.getException() instanceof FirebaseAuthInvalidCredentialsException){
-                                    Toast.makeText(LoginActivity.this,
-                                            "Wrong email or password", Toast.LENGTH_LONG).show();
-                                }
-                            }
-                        }
-                    });
+
+                    FirebaseUser current_user = mAuth.getCurrentUser();
+
+                    if(current_user != null && current_user.isEmailVerified()){
+                        login(email, pass);
+                    }
+
+                    if(current_user != null && !current_user.isEmailVerified()){
+                        progressDialog.dismiss();
+                        Toast.makeText(LoginActivity.this, "Please verify your email!", Toast.LENGTH_LONG).show();
+                    }
+
+                    if(current_user == null){
+                        login(email, pass);
+                    }
                 }
             }
         });
@@ -122,5 +116,30 @@ public class LoginActivity extends AppCompatActivity {
         }
 
         return ret;
+    }
+
+    private void login(String email, String pass){
+
+        mAuth.signInWithEmailAndPassword(email, pass).addOnCompleteListener(new OnCompleteListener<AuthResult>() {
+            @Override
+            public void onComplete(@NonNull Task<AuthResult> task) {
+                if(task.isSuccessful()){
+                    progressDialog.dismiss();
+
+                    Intent loggedInIntent = new Intent(LoginActivity.this, LoggedinHomeActivity.class);
+                    loggedInIntent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK | Intent.FLAG_ACTIVITY_NEW_TASK);
+                    startActivity(loggedInIntent);
+                    finish();
+
+                } else {
+                    progressDialog.dismiss();
+
+                    if(task.getException() instanceof FirebaseAuthInvalidCredentialsException){
+                        Toast.makeText(LoginActivity.this, "Wrong email or password", Toast.LENGTH_LONG).show();
+                    }
+                }
+            }
+        });
+
     }
 }

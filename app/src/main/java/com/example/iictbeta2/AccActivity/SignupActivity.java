@@ -84,23 +84,25 @@ public class SignupActivity extends AppCompatActivity {
 
                                             final String uid = mAuth.getCurrentUser().getUid();
 
-                                            rootReference = FirebaseDatabase.getInstance().getReference().child("Users").child(uid);
+                                            rootReference = FirebaseDatabase.getInstance().getReference().child("users").child(uid);
 
                                             HashMap<String, Object> userdata = new HashMap<>();
-                                            userdata.put("name", name);
+                                            userdata.put("display_name", name);
                                             userdata.put("email", email);
                                             userdata.put("balance", 0);
+                                            userdata.put("admin", false);
 
                                             rootReference.setValue(userdata).addOnCompleteListener(new OnCompleteListener<Void>() {
                                                 @Override
                                                 public void onComplete(@NonNull Task<Void> task) {
                                                     if(task.isSuccessful()){
                                                         progressDialog.dismiss();
-                                                        FirebaseAuth.getInstance().signOut();
+
                                                         Intent i = new Intent(SignupActivity.this, LoginActivity.class);
                                                         Toast.makeText(SignupActivity.this,
                                                                 "Registration completed. Please verify your email.",
                                                                 Toast.LENGTH_LONG).show();
+
                                                         startActivity(i);
                                                     } else {
                                                         progressDialog.dismiss();

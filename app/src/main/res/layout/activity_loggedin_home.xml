@@ -7,28 +7,51 @@
     tools:context=".AfterLoginActivity.LoggedinHomeActivity">
 
     <TextView
+        android:id="@+id/userNameView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="@string/logged_in_home"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
         android:textSize="30sp" />
 
-    <Button
-        android:id="@+id/logout"
+    <TextView
+        android:id="@+id/balanceView"
         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="200dp"
+        android:textSize="15sp" />
+
+    <Button
+        android:id="@+id/changeDisplayName"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
         android:layout_marginStart="60dp"
         android:layout_marginLeft="163dp"
-        android:layout_marginTop="401dp"
+        android:layout_marginTop="400dp"
         android:layout_marginEnd="60dp"
         android:layout_marginRight="160dp"
-        android:layout_marginBottom="154dp"
+        android:text="@string/change_display_name" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="163dp"
+        android:layout_marginTop="460dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginRight="160dp"
         android:text="@string/log_out" />
 
 </RelativeLayout>
