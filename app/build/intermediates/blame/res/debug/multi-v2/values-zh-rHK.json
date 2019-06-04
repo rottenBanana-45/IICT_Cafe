@@ -4,23 +4,6 @@
             "outputFile": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\2d5158fedca0a5b5fb5e65fa7c31bf69\\res\\values-zh-rHK\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "166",
-                        "endOffsets": "417"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3690",
-                        "endColumns": "166",
-                        "endOffsets": "3852"
-                    }
-                },
-                {
                     "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\6876169fd6a57fe0932ce3bf1ef2ac3e\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2",
@@ -35,6 +18,23 @@
                         "startOffsets": "5061",
                         "endColumns": "100",
                         "endOffsets": "5157"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\571c6cf55cd8ed9f3802048a7a591689\\res\\values-zh-rHK\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "166",
+                        "endOffsets": "417"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3690",
+                        "endColumns": "166",
+                        "endOffsets": "3852"
                     }
                 },
                 {

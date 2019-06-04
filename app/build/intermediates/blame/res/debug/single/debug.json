@@ -28,24 +28,24 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -64,12 +64,12 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\62a45c2c9ef4fa376499ce1166f7d952\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\62a45c2c9ef4fa376499ce1166f7d952\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -168,12 +168,12 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\62a45c2c9ef4fa376499ce1166f7d952\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\62a45c2c9ef4fa376499ce1166f7d952\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\62a45c2c9ef4fa376499ce1166f7d952\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -204,12 +204,12 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -236,12 +236,12 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_hide_motion_spec.xml.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_hide_motion_spec.xml.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -300,16 +300,16 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\6876169fd6a57fe0932ce3bf1ef2ac3e\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\62a45c2c9ef4fa376499ce1166f7d952\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\62a45c2c9ef4fa376499ce1166f7d952\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -328,12 +328,12 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -348,12 +348,12 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\animator\\mtrl_chip_state_list_anim.xml"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\6876169fd6a57fe0932ce3bf1ef2ac3e\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_chip_state_list_anim.xml.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\animator\\mtrl_chip_state_list_anim.xml"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -396,12 +396,12 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\drawable\\mtrl_tabs_default_indicator.xml"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
@@ -428,12 +428,12 @@
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\eb706cb9b7ea4742c2a3ec2506418adc\\res\\color\\mtrl_btn_bg_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",

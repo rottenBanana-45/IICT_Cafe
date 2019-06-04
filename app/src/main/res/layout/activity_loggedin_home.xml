@@ -5,14 +5,45 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AfterLoginActivity.LoggedinHomeActivity">
-
-    <TextView
-        android:id="@+id/userNameView"
+    
+    <RelativeLayout
+        android:id="@+id/nameFrame"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
-        android:textSize="30sp" />
+        android:layout_marginTop="100dp">
+
+        <TextView
+            android:id="@+id/userNameView"
+            android:background="#00000000"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/progress_name"
+            android:textSize="25sp"
+            android:layout_toEndOf="@id/progress_name"
+            android:layout_marginStart="5dp"
+            android:text="@string/loading"
+            android:layout_marginLeft="5dp" />
+        
+        <ProgressBar
+            android:id="@+id/progress_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            />
+        
+    </RelativeLayout>
+
+    
+
+    <TextView
+        android:id="@+id/userIDView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        android:textSize="15sp" />
 
     <TextView
         android:id="@+id/balanceView"

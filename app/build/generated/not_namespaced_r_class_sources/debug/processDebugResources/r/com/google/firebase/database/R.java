@@ -144,20 +144,20 @@ public final class R {
         public static final int line1 = 0x7f08006c;
         public static final int line3 = 0x7f08006d;
         public static final int media_actions = 0x7f080073;
-        public static final int none = 0x7f08007c;
-        public static final int normal = 0x7f08007d;
-        public static final int notification_background = 0x7f08007e;
-        public static final int notification_main_column = 0x7f08007f;
-        public static final int notification_main_column_container = 0x7f080080;
-        public static final int right_icon = 0x7f08008e;
-        public static final int right_side = 0x7f08008f;
-        public static final int standard = 0x7f0800b6;
-        public static final int status_bar_latest_event_content = 0x7f0800b8;
-        public static final int text = 0x7f0800c0;
-        public static final int text2 = 0x7f0800c1;
-        public static final int time = 0x7f0800c9;
-        public static final int title = 0x7f0800ca;
-        public static final int wide = 0x7f0800dd;
+        public static final int none = 0x7f08007d;
+        public static final int normal = 0x7f08007e;
+        public static final int notification_background = 0x7f08007f;
+        public static final int notification_main_column = 0x7f080080;
+        public static final int notification_main_column_container = 0x7f080081;
+        public static final int right_icon = 0x7f080090;
+        public static final int right_side = 0x7f080091;
+        public static final int standard = 0x7f0800b8;
+        public static final int status_bar_latest_event_content = 0x7f0800ba;
+        public static final int text = 0x7f0800c2;
+        public static final int text2 = 0x7f0800c3;
+        public static final int time = 0x7f0800cb;
+        public static final int title = 0x7f0800cc;
+        public static final int wide = 0x7f0800e0;
     }
     public static final class integer {
         private integer() {}
@@ -206,7 +206,7 @@ public final class R {
         public static final int common_open_on_phone = 0x7f0d003d;
         public static final int common_signin_button_text = 0x7f0d003e;
         public static final int common_signin_button_text_long = 0x7f0d003f;
-        public static final int status_bar_notification_info_overflow = 0x7f0d005d;
+        public static final int status_bar_notification_info_overflow = 0x7f0d005e;
     }
     public static final class style {
         private style() {}
