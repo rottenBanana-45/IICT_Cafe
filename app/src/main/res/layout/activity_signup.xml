@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".AccActivity.SignupActivity"
     android:orientation="horizontal">
+
+    <include layout="@layout/toolbar" android:id="@+id/signup_toolbar" />
+
+    <ScrollView android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -18,7 +23,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginStart="30dp"
             android:layout_marginLeft="30dp"
-            android:layout_marginTop="50dp"
+            android:layout_marginTop="100dp"
             android:layout_marginEnd="30dp"
             android:layout_marginRight="30dp"
             app:errorEnabled="true">
@@ -37,7 +42,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="30dp"
             android:layout_marginLeft="30dp"
-            android:layout_marginTop="126dp"
+            android:layout_marginTop="176dp"
             android:layout_marginEnd="30dp"
             android:layout_marginRight="30dp"
             android:layout_marginBottom="30dp"
@@ -56,7 +61,7 @@
             android:layout_height="wrap_content"
             android:layout_marginStart="30dp"
             android:layout_marginLeft="30dp"
-            android:layout_marginTop="202dp"
+            android:layout_marginTop="252dp"
             android:layout_marginEnd="30dp"
             android:layout_marginRight="30dp"
             app:passwordToggleEnabled="true"
@@ -76,7 +81,7 @@
             android:layout_alignParentTop="true"
             android:layout_marginStart="30dp"
             android:layout_marginLeft="30dp"
-            android:layout_marginTop="281dp"
+            android:layout_marginTop="331dp"
             android:layout_marginEnd="30dp"
             android:layout_marginRight="30dp"
             app:errorEnabled="true"
@@ -147,7 +152,7 @@
             android:id="@+id/go"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-
+            android:layout_centerHorizontal="true"
             android:layout_below="@+id/editTextConfirmPass"
             android:layout_alignParentStart="true"
             android:layout_alignParentLeft="true"
@@ -166,7 +171,7 @@
             android:id="@+id/login"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="464dp"
+            android:layout_marginTop="514dp"
             android:layout_marginBottom="40dp"
             android:background="@null"
             android:text="@string/already_signed_up_log_in_to_your_account"
@@ -176,3 +181,5 @@
     </RelativeLayout>
 
 </ScrollView>
+
+</RelativeLayout>

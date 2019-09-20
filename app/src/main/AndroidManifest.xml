@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.iictbeta2">
 
     <application
@@ -9,9 +10,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AccActivity.ForgotPassActivity"></activity>
-        <activity android:name=".AfterLoginActivity.LoggedinHomeActivity"
-            android:theme="@style/AppTheme.NoActionBarDef" />
+        <activity android:name=".AfterLoginActivity.CartActivity"></activity>
+        <activity android:name=".SettingsRechargeActivities.RechargeActivity" />
+        <activity android:name=".AccActivity.VerificationActivity" />
+        <activity android:name=".AccActivity.ForgotPassActivity" />
+        <activity android:name=".AfterLoginActivity.LoggedinHomeActivity" />
         <activity android:name=".AccActivity.SignupActivity" />
         <activity android:name=".AccActivity.LoginActivity" />
         <activity

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\rottenBanana\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\Towsif\\AndroidStudioProjects\\IICTbeta2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\01aaeb130155f32f0bbc00ed70ef30b1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Towsif\\.gradle\\caches\\transforms-2\\files-2.1\\b320a443effd06c78f4f9e5ddfe89b1a\\appcompat-v7-28.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\rottenBanana\\.gradle\\caches\\transforms-2\\files-2.1\\89ea12333bf4b100285a4aa951358b97\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Towsif\\.gradle\\caches\\transforms-2\\files-2.1\\6d1ac33fa7bf63a59abf96edc65f6fce\\cardview-v7-28.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

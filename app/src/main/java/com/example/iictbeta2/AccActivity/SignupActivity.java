@@ -6,6 +6,7 @@ import android.support.annotation.NonNull;
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
@@ -23,16 +24,16 @@ import java.util.HashMap;
 
 public class SignupActivity extends AppCompatActivity {
 
+    //UI
     private TextInputLayout nameField, emailField, passField, confirmPassField;
+    private Toolbar toolbar;
+    private ProgressDialog progressDialog;
 
     //Firebase Authentication
     private FirebaseAuth mAuth;
 
     //Firebase Database
     private DatabaseReference rootReference;
-
-    //Progress Dialogue
-    private ProgressDialog progressDialog;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -44,30 +45,33 @@ public class SignupActivity extends AppCompatActivity {
         emailField = findViewById(R.id.editTextEmail);
         passField = findViewById(R.id.editTextPass);
         confirmPassField = findViewById(R.id.editTextConfirmPass);
+        toolbar = findViewById(R.id.signup_toolbar);
+
         Button signupButton = findViewById(R.id.go);
         Button loginButton = findViewById(R.id.login);
 
         mAuth = FirebaseAuth.getInstance();
 
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setTitle("Register");
 
 
         signupButton.setOnClickListener(new View.OnClickListener() {
 
             @Override
             public void onClick(View v) {
-
-                progressDialog = new ProgressDialog(SignupActivity.this);
-                progressDialog.setTitle("Signing up");
-                progressDialog.setMessage("Please wait...");
-                progressDialog.setCanceledOnTouchOutside(false);
-                progressDialog.show();
-
                 final String name = nameField.getEditText().getText().toString().trim();
                 final String email = emailField.getEditText().getText().toString().trim();
                 String pass = passField.getEditText().getText().toString();
                 String confirmPass = confirmPassField.getEditText().getText().toString();
 
                 if(!checkInvalidInput(name, email, pass, confirmPass)){
+
+                    progressDialog = new ProgressDialog(SignupActivity.this);
+                    progressDialog.setTitle("Signing up");
+                    progressDialog.setMessage("Please wait...");
+                    progressDialog.setCanceledOnTouchOutside(false);
+                    progressDialog.show();
 
                     mAuth.createUserWithEmailAndPassword(email, pass).addOnCompleteListener( new OnCompleteListener<AuthResult>() {
 
